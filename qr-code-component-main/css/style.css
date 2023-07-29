@@ -1,0 +1,29 @@
+body{text-align: center;
+background-color:  hsl(212, 45%, 89%);
+
+
+}
+.card{background-color:hsl(0, 0%, 100%) ; 
+   display: inline-block;
+    border-radius: 20px;
+    text-align: center;
+    margin: 100px auto;
+    
+
+}
+.qr-img{width: 250px;
+    border-radius: 15px;
+    margin: 15px;
+    
+}
+h2{width: 250px;font-size: 20px;
+margin:10px auto;
+font-family: 'Outfit', sans-serif;
+font-size: 20x;
+text-align: center;
+color: hsl(218, 44%, 22%);}
+
+p{width: 250px;
+margin: 20px auto;font-family: 'Outfit', sans-serif;
+font-size: 15px;
+color: hsl(220, 15%, 55%)}
